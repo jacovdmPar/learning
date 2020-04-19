@@ -1,2 +1,2 @@
 # learning
-used for learning git
+I use this for learning git
